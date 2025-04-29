@@ -1,0 +1,24 @@
+# Python virtual environment and lock files
+uv.lock
+.python-version
+
+# Environment variables
+.env
+
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Other common Python ignores
+.env.*
+*.env
+*.egg-info/
+build/
+dist/
